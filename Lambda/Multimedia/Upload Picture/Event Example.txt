@@ -1,0 +1,14 @@
+# Profile image
+
+This event don"t have information about the event
+
+event = {"session_token": "FQoDYXdzEPX//////////wEaDJVkvsaexfBD1Q" , "title":"foto mi nino 1", "picture_key":"b32.png"}
+
+# Event image
+
+This is a event picture, so, is necesary information about the event
+
+
+event2 = {"session_token": "FQoDYXdzEKn//////////wEaDOlftbbc8ZfUU3yZOiKrAntRgVN+4ZEvMPKdASA62zDdK6V7Zy6BOBL0hVGCmBrRtIwD3B0gJfyaf9b60lMsWyT26+WqpMC++HuO6VcnEE8VlRGHjBNsAw8lvSP38BSRUnQo9N5xNv5ZUebK/Ceab8lDWAmmt7Ywq0jmptS6k4fCuLsiSZnKtw6SsLfXq1ok+Y3EA9n9XMIK87tI23F85xxYIVsgbDnr3bEjBDQHsuNddpc1nLuNb2s09BBwhENiTtEfNg1qZMwxYYVrMcBOeFUFuZYDfR53CRu9VYi+RwbINLWyDRk1NMR1ufCMcEPAXSl874x8UpVpGuy7BiyOt1mxay7F2KiFdZ+Fx7QJcNJNqyhfuShfBEumutG3scfTdD6Eqpj1AocM81+jBUY0cO/22CqS5TzB4QZtKPKejMkF",
+          "title":"foto de halloween", "picture_key":"Classrooms/Infantil/1D/halloween/b32.png", "event": "halloween", "event_date":"20/12/2017"}
+          uploadPicture

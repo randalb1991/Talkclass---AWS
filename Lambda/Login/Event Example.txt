@@ -1,0 +1,2 @@
+event = {"username": "usuario1", "password": "usuario1", "role": "parent"}
+event = {"username": "usuario1", "password": "usuario1", "role": "teacher"}

@@ -1,0 +1,16 @@
+# Tables Dynamo DB
+tableUsersLogged = Users_logged
+tableClassroom = Classrooms
+tableUsers = Users
+tableEvents = Events
+tableMultimedia = Multimedia
+
+# Buckets S3
+
+originalBucket = talkclasstfg-bucket
+resizedBucket = talkclasstfg-bucketresized
+
+# Rekognition
+
+maxLabel = 6
+

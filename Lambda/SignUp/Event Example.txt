@@ -1,0 +1,8 @@
+event_parent = {"username": "rdbarrientos", "address": "Getafe", "birthday": "5/12/1992", "email": "rd.barrientosa@gmail.com",
+                "first_name": "Randall", "last_name":"Barrientos", "phone": "34654654654", "postal_code": "28028",
+                "classroom": "1D Infantil", "role": "parent", "password":"usuario1"}
+
+event_teacher = {"username": "asanchez2", "address": "Avenida de america", "birthday": "5/12/1980", "email": "rd.barrientos@alumnos.urjc.es",
+                "first_name": "Alberto", "last_name":"Sanchez", "phone": "34654654654", "postal_code": "28028",
+                "role": "teacher", "teacher_class": "1D Infantil","password":"usuario1"}
+

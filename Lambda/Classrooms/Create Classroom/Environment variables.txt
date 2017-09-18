@@ -1,0 +1,7 @@
+# Tables Dynamo DB
+tableClassroom = Classrooms
+
+# Buckets S3
+
+originalBucket = talkclasstfg-bucket
+resizedBucket = talkclasstfg-bucketresized

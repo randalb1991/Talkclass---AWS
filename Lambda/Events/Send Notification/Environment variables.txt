@@ -1,0 +1,2 @@
+# Tables Dynamo DB
+tableClassroom = Classrooms

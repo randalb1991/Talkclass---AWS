@@ -1,0 +1,37 @@
+# Tables Dynamo DB
+tableUsersLogged=Users_logged
+tableClassroom=Classrooms
+tableUsers=Users
+tableEvents=Events
+tableMultimedia=Multimedia
+
+# URL Login and Delegation AUth0
+
+urlSignUp=https://talkclass.auth0.com/dbconnections/signup
+urlSessionOauth=https://talkclass.auth0.com/oauth/ro
+urlSessionDelegation=https://talkclass.auth0.com/delegation
+
+# Buckets S3
+
+originalBucket=talkclasstfg-bucket
+resizedBucket=talkclasstfg-bucketresized
+
+# Rekognition
+
+maxLabel = 6
+
+# Client ID and DB connection AUth0
+
+clientIdTeacher=1Omp2yeIhGP3wOnqMNzgL5y18RUc5p80
+connectionTeacher=Username-Password-Authentication
+
+clientIdParent=mMzOE026lgtsO6FzhIWjW3NvbQ0EAL8H
+connectionParent=Username-Password-Connection2
+
+
+
+# JSON EXAMPLE:
+
+event = {'username':'rdtcp', 'password': 'rand1991', 'role': 'parent'or 'teacher'}
+
+os.environ['tableUsersLogged']
