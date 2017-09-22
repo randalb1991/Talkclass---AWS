@@ -22,10 +22,10 @@ maxLabel = 6
 
 # Client ID and DB connection AUth0
 
-clientIdTeacher=1Omp2yeIhGP3wOnqMNzgL5y18RUc5p80
+clientIdTeacher=1Omp2yeIhG****y******
 connectionTeacher=Username-Password-Authentication
 
-clientIdParent=mMzOE026lgtsO6FzhIWjW3NvbQ0EAL8H
+clientIdParent=mMzOE0***********
 connectionParent=Username-Password-Connection2
 
 
